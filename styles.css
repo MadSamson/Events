@@ -105,8 +105,7 @@ header nav ul li a:hover {
   object-fit: cover;
 }
 .Collection div img:hover {
-  width: 410px;
-  height: 310px;
+  transform: scale(1.02);
 }
 
 .CEOsection {
