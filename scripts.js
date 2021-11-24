@@ -6,6 +6,6 @@ $(document).ready(function() {
     })
 
     $("#sendMessage").click(function(){
-        $(".contactForm").html("Tack för ditt meddelande. Vi återkopplar så fort vi kan ")
+        $(".allForm").html("Tack för ditt meddelande. Vi återkopplar så fort vi kan ")
     })
 })
